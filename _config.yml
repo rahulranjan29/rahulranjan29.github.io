@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "India"
+locale                   : "en-IN"
 title                    : "Rahul Ranjan"
 title_separator          : "-"
 name                     : &name "Rahul Ranjan"
@@ -83,7 +83,7 @@ author:
   name             : "Rahul Ranjan"
   avatar           : "profile.png"
   bio              : "Undergradute student at IIT(BHU) Varanasi"
-  location         : "Location"
+  location         : "Varanasi,India"
   employer         :
   email            : rahul.ranjan.met16@itbhu.ac.in
   facebook         : MeRahulRanjan
@@ -94,7 +94,7 @@ author:
   instagram        :
   
   lastfm           :
-  linkedin         :
+  linkedin         : merahulranjan
   
   pinterest        :
   soundcloud       :
